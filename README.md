@@ -1,5 +1,7 @@
 # tabAI
 
+![](https://raw.githubusercontent.com/Jeiel0rbit/tabIA/refs/heads/main/VN20250529_131431.gif)
+
 Este projeto implementa um chatbot simples utilizando Flask, `sklearn` para similaridade de texto e a `API Gemini` para gerar respostas com base em um conjunto de documentos de FAQ do TabNews. Usei https://www.firecrawl.dev/ desde quando foi apresentado por [vedovelli](https://www.tabnews.com.br/vedovelli/construi-um-chatbot-para-responder-a-perguntas-sobre-o-conteudo-tabnews).
 
 ## Pré-requisitos
